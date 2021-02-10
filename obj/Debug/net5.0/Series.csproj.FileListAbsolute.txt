@@ -1,0 +1,16 @@
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/Series
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/Series.deps.json
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/Series.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/ref/Series.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Series/bin/Debug/net5.0/Series.pdb
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/ref/Series.dll
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.pdb
+/home/mattias/Documentos/CursoDotNet/Examples/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
